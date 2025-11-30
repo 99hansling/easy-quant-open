@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.claude
+.serena
+
+# Progress documents (private)
+*进展.md
+*进展*.md
