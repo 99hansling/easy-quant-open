@@ -1,0 +1,5 @@
+{
+  "name": "QuantInvest Pro - Interactive Learning System",
+  "description": "An interactive educational platform visualizing Quantitative Investment strategies based on the works of Sun Jian, Wu Lan, and Zhao Chaoyi. Features interactive charts for Timing Models, Portfolio Theory, and High-Frequency Trading simulations, integrated with an AI Tutor.",
+  "requestFramePermissions": []
+}
