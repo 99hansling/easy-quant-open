@@ -17,7 +17,7 @@
 
 ## <a name="chinese"></a>🎯 项目简介
 
-QuantInvest Pro 是一个现代化的量化投资教育平台，专注于通过可视化交互的方式帮助学习者掌握量化金融的核心概念。项目基于《量化投资》（孙健、吴蓝、赵超逸著）的知识体系，涵盖从择时模型到高频交易的完整量化投资框架。
+QuantInvest Pro 是一个现代化的量化投资教育平台，专注于通过可视化交互的方式帮助学习者掌握量化金融的核心概念。涵盖从择时模型到高频交易的完整量化投资框架。
 
 ### ✨ 核心特性
 
@@ -201,7 +201,6 @@ easy-quant-open/
 
 ## 🙏 致谢
 
-- 《量化投资》（孙健、吴蓝、赵超逸著）提供理论基础
 - [Google Gemini](https://ai.google.dev/) 提供 AI 能力
 - [Recharts](https://recharts.org/) 提供图表支持
 - [Lucide](https://lucide.dev/) 提供图标
@@ -214,7 +213,7 @@ easy-quant-open/
 
 ### 🎯 Introduction
 
-QuantInvest Pro is a modern quantitative investment educational platform that helps learners master core quantitative finance concepts through interactive visualizations. Based on the knowledge system of "Quantitative Investment" by Sun Jian, Wu Lan, and Zhao Chaoyi, it covers the complete quantitative investment framework from timing models to high-frequency trading.
+QuantInvest Pro is a modern quantitative investment educational platform that helps learners master core quantitative finance concepts through interactive visualizations. It covers the complete quantitative investment framework from timing models to high-frequency trading.
 
 ### ✨ Key Features
 
